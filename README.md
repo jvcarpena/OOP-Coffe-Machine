@@ -51,4 +51,4 @@ Enjoy your latte!
 - Type `report` to see the current status of resources and money.
 
 ## Author
-Created by JV Carpena.
+Created by Jose Victor Carpena.
